@@ -1,10 +1,11 @@
 # Kamus-saya
+### Aplikasi untuk pencarian kata dalam Kamus Besar Bahasa Indonesia (KBBI) 
+
 
 ## Preview
 
 https://user-images.githubusercontent.com/40870452/170469322-81232de0-c91a-4eec-96eb-f26922e32223.mp4
 
-### Aplikasi untuk pencarian kata dalam Kamus Besar Bahasa Indonesia (KBBI) 
 
 ## Notes
 - Create simple Ui with Jetpack compose
