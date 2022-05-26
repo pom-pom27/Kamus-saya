@@ -1,6 +1,4 @@
 # Kamus-saya
-jetpack compose + clean architecture
-
 
 ## Preview
 
